@@ -15,4 +15,3 @@ simple Bash script that prompts the user for a directory path, checks if the dir
    ```
 4. When prompted, enter the path of the directory you want to list
 5. If the directory exists, the contents will be saved in `directory_content.txt`
-```
